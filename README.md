@@ -9,7 +9,7 @@ https://github.com/Hifzi17/jubilant-octo-adventure/edit/main/README.md
 3. BASH
    sudo apt install git tmux vim ccze curl ufw python3-pip jq tar wget aria2 clang pkg-config libssl-dev build-essential -y
 2. BASH
-   curl -sL1 https://nubit.sh | bash
+   #curl -sL1 https://nubit.sh | bash
 
 
 
